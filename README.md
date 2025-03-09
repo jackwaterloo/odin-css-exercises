@@ -2,6 +2,8 @@ I forked this repo.
 
 **Completed Exercises:**
 - intermediate-html-css > positioning-grid > 01-basic-holy-grail
+- intermediate-html-css > advanced-grid > 01-responsive-holy-grail
+- intermediate-html-css > advanced-grid > 02-holy-grail-mockup
 
 # CSS Exercises
 
